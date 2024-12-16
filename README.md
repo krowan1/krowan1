@@ -5,18 +5,21 @@ Welcome to my page! I'm an operations and sales dashboard professional who lever
 <details>
   <summary>Discover more about me below: </summary>
 
-  | 🔽  | Description |
+  | Icon  | Description |
   |------:|-----------|
   |  🏠  | Tampa, FL (USA)|
-  |  🔧  | SQL, Python, MSFT Office (advanced Excel), Python, and PowerBI|
-  |  ⭐  | Frequently look for another reason to add another monitor to my WFH setup|
+  |  🔧  | SQL<br/>Python<br/>MSFT Office (advanced Excel)<br/>Tableau<br/>PowerBI|
+  |  ⭐  | Frequently look for another reason to add another monitor to my WFH setup.<br/>Then again being on the go with this [JSAUX FlipGo Dual Monitor](https://jsaux.com/pages/christmas-2024) is winning the Christmas List race.|
   |  📫  | Connect with me on [LinkedIn](http://www.linkedin.com/in/kelvinrowan)|
   
-</details><br/>
+</details>
 
 ## :man_technologist: Data Analyst Projects
 - Sales Insights
   - Vending Portfolio
+  - London Bike Sharing
+- Reviews
+  - British Airways
 <br/>
 
 ---
