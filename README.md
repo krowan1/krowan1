@@ -39,6 +39,7 @@ App Developer → Database Engineer (Oracle) → Management Consulting → Priva
 BA, Washington University in St. Louis — Economics  
 MBA, UNC Kenan-Flagler — Business Analytics and Operations Management
 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="WashU-white_web.png"> <source media="(prefers-color-scheme: light)" srcset="WashU-RGB_web.png"> <img src="WashU-RGB_web.png" height="60" alt="Washington University in St. Louis"> </picture> &nbsp; &nbsp; <img src="UNCKF_color_option_black.jpg" height="60" alt="UNC Kenan-Flagler Business School">
 ## Let's talk
 
 🌐 [LinkedIn](https://www.linkedin.com/in/kelvinrowan/, "in/kelvinrowan")
